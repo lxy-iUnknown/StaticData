@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StaticData</name>
+    </assembly>
+    <members>
+        <member name="T:StaticDataAttribute">
+            <summary>
+            Attribute for static data<br>
+            Previous method body will be cleared</br>
+            </summary>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Boolean[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Boolean"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.SByte[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.SByte"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Byte[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Byte"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Char[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Char"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Int16[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Int16"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.UInt16[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.UInt16"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Int32[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Int32"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.UInt32[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.UInt32"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Int64[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Int64"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.UInt64[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.UInt64"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Single[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Single"/> data value</param>
+        </member>
+        <member name="M:StaticDataAttribute.#ctor(System.Double[])">
+            <summary>
+            Constructor
+            </summary>
+            <param name="value">Raw <see cref="T:System.Double"/> data value</param>
+        </member>
+    </members>
+</doc>
